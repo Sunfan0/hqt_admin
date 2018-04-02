@@ -1,0 +1,15 @@
+/*.body .ivu-input {
+     width: 70% !important;
+ }
+.body .ivu-select-single .ivu-select-selection {
+    width: 70% !important;
+}
+.body .ivu-cascader-rel {
+    width: 70% !important;
+}
+.body .ivu-cascader-rel .ivu-input {
+    width: 100% !important;
+}
+.body .ivu-date-picker-editor .ivu-input {
+    width: 100% !important;
+}*/
